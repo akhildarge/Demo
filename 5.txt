@@ -1,0 +1,9 @@
+1. java mail sender error - manager registration
+2. unable to delete sport
+3. 
+
+
+Completed : 
+1. add batch
+2. Delete Batch - reload page and redirect to same page
+3. 
